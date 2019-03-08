@@ -40,7 +40,8 @@
           "Shopify Liquid (HTML)"
         ],
         "extensions": [
-          ".liquid"
+          ".liquid",
+          ".lqd"
         ],
         "configuration": "./src/languages/liquid.configuration.json"
       }
