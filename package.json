@@ -5,6 +5,9 @@
   "publisher": "sissel",
   "icon": "images/logo.png",
   "author": "Nikolas Savvidis <nicos@gmx.com>",
+  "contributors": [
+    "Damian Hamill <damianham@gmail.com>"
+   ],
   "version": "1.0.0",
   "keywords": [
     "liquid",
